@@ -1,0 +1,2 @@
+# Pycharm_proje
+python
